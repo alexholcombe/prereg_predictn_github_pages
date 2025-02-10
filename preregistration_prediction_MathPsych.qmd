@@ -1,0 +1,158 @@
+---
+title: "Mathematical psychologists should preregister more studies"
+title-slide-attributes:
+  data-background-image: images/prereg-badge.original.png
+  data-background-size: auto #https://developer.mozilla.org/en-US/docs/Web/CSS/background-size
+  data-background-repeat: repeat #https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat
+  data-background-opacity: "0.04"
+author: "Alex Holcombe"
+date: 12-02-2025
+format: 
+  revealjs:
+    smaller: true
+    auto-stretch: false #Otherwise manual image resize (e.g. width) doesn't work!
+    incremental: true
+    self-contained: false
+    slide-number: c/t
+    footer: "[Preregister more](https://alexholcombe.github.io/PSYC2016lectures)"
+    theme: ["simple", "styles.scss"]
+    echo: true
+    multiplex: false #otherwise speaker notes sometimes doesn't work?
+    code-link: true
+    title-slide-attributes:
+      data-background-color: "#447099"
+editor: source
+---
+
+## Abstracts
+
+### Math Psych: Mathematical psychologists should preregister more studies
+<!-- 8 + 2 minutes-->
+
+Because many strong theories make clear predictions, in principle there is no
+advantage to registering such a theory’s predictions in advance of collecting
+data (Szollosi & Donkin, 2021). On that basis, some researchers have argued
+that preregistration is not worthwhile – the priority should be on developing
+strong theories (Szollosi et al., 2020). Unfortunately, however, the
+psychological literature has not done this. What is the solution? I will argue
+that preregistration is, ironically, an important part of the answer. Both old and
+new strong theories that make correct predictions have difficulty attracting the
+recognition that they deserve. One factor that contributes to this is the
+scarcity of both the skills and the time required to determine that a theory is
+strong and makes clear predictions. A second factor is the tragic failure of
+psychologists to appreciate strong theories. Both factors can be addressed by
+preregistering more studies, in part because everyone recognizes the value of
+correct predictions. Finally, while I claim that preregistration is important, it
+<!--
+### SIPS: Even those with strong theories should preregister their studies
+
+Because many strong theories make clear predictions, in principle there may be no advantage to registering such a theory’s predictions in advance of data collection (Szollosi & Donkin, 2021). Some researchers have therefore argued that preregistration is not worthwhile (Szollosi et al., 2020). Yet psychologists have not prioritized the development of strong theories, or even the use of existing ones. Can we do something about this? I will argue that preregistration is, ironically, an important part of the answer. Strong theories are underappreciated in part because of the scarcity of both the skills and the time required to determine that a theory is strong and makes clear predictions. But because everyone recognizes the value of correct predictions, preregistration can help strong theories rise to the top. However, additional practices such as head-to-head comparisons of competing theories (Dutilh et al., 2018) may also be necessary.
+-->
+
+## {background-image="images/isPreregWorthwhile.png" background-opacity="1" background-size="50%"}
+
+::: notes :::
+Math psychs
+:::
+
+## The argument {background-image="images/isPreregWorthwhile.png" background-opacity=".1" background-size="auto" background-repeat="repeat"}
+
+::: {.r-fit-text}
+
+-   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
+-   Strong theories do not have degrees of freedom
+-   Strong theories make relatively precise predictions
+    -   no researcher degrees of freedom
+-   Therefore: Preregistration is redundant
+
+:::
+
+## The argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
+
+::: {.r-fit-text .nonincremental}
+
+-   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
+-   ~~Strong theories do not have degrees of freedom~~
+-   Therefore: Preregistration is redundant
+
+:::
+
+::: notes :::
+Fixing the argument
+:::
+
+## The argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
+
+::: {.r-fit-text .nonincremental}
+
+-   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
+-   ~~Strong theories do not have degrees of freedom~~
+-   ~~Therefore: Preregistration is redundant~~
+
+:::
+
+::: notes :::
+So, preregistration is not redundant.
+However, to the extent that math psych theories have fewer degrees of freedom, preregistration seems less useful.
+However, there is another reason to preregister!
+:::
+
+## Weaker but better argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
+
+::: {.r-fit-text}
+
+-   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
+-   Strong theories have FEWER degrees of freedom
+-   Therefore: Preregistration is LESS important for strong theories
+
+:::
+
+::: notes :::
+This weaker version still may result in a lot of math psychs not preregistering
+:::
+
+##
+
+While *in principle* there is no need to preregister strong math psych theories, in practice there are benefits.
+ 
+God can instantly determine that a theory is strong and makes precise predictions with few auxiliary assumptions.
+
+Humans need a time. 
+
+## Time-starved {background-image="images/Australian_Research_Council_logo.svg.png" background-opacity=".1" background-size="25%" background-repeat="repeat"}
+
+::: {.r-fit-text .nonincremental}
+
+-   Editors of prestigious journals
+-   Funding panel members and grant reviewers
+-   University administrators
+
+:::
+
+::: notes :::
+ and expertise-lacking
+:::
+
+## How can we make strong theories easier to recognize? {background-image="images/weatherForecastIcons.png" background-opacity=".04" background-size="25%" background-repeat="repeat"}
+
+::: {.r-fit-text}
+
+-   Show it makes correct predictions ![](images/weatherForecastIcons.png)
+-   ![](images/prereg-badge.original.png){width=200}
+
+:::
+
+## How can we certify that correct predictions are being made? {background-image="images/prereg-badge.original.png" background-opacity=".2" background-size="25%" background-repeat="repeat"}
+
+-   Preregister
+
+
+## The grants will come rolling in {background-image="images/AUD_williamNYK.jpg" background-opacity="0.2"}
+
+## FIN
+
+## Objections
+
+-   Many preregistrations are done badly
+-   Only risky predictions should be rewarded
+
