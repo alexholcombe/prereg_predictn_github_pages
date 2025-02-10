@@ -60,9 +60,9 @@ Math psychs
 ::: {.r-fit-text}
 
 -   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
--   Strong theories do not have degrees of freedom
--   Strong theories make relatively precise predictions
-    -   no researcher degrees of freedom
+-   Strong theories do not have researcher degrees of freedom
+<!---   Strong theories make relatively precise predictions
+    -   no researcher degrees of freedom-->
 -   Therefore: Preregistration is redundant
 
 :::
@@ -97,13 +97,14 @@ However, to the extent that math psych theories have fewer degrees of freedom, p
 However, there is another reason to preregister!
 :::
 
-## Weaker but better argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
+## Weaker, but better argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
 
 ::: {.r-fit-text}
 
--   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
--   Strong theories have FEWER degrees of freedom
--   Therefore: Preregistration is LESS important for strong theories
+- Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
+- Strong theories have FEWER degrees of freedom
+- Therefore: Preregistration is LESS important for strong theories
+    - So, those with strong theories shouldn't bother preregistering
 
 :::
 
@@ -113,11 +114,21 @@ This weaker version still may result in a lot of math psychs not preregistering
 
 ##
 
-While *in principle* there is no need to preregister strong math psych theories, in practice there are benefits.
- 
+However, there's another problem.
+
+People are 
+
+## Preregistration can show that strong theories are better
+
+## The very advantage of 
+
+## A different benefit of preregistration
+
+While few d.f. means preregistration has less benefit for guarding against d.f., preregistration has other benefits.
+
 God can instantly determine that a theory is strong and makes precise predictions with few auxiliary assumptions.
 
-Humans need a time. 
+Humans need time. 
 
 ## Time-starved {background-image="images/Australian_Research_Council_logo.svg.png" background-opacity=".1" background-size="25%" background-repeat="repeat"}
 
