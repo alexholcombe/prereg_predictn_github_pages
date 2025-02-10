@@ -1,6 +1,6 @@
 # preregistration and prediction
 
-These lectures are rendered to e.g. https://alexholcombe.github.io/PSYC2016lectures
+These talks are rendered to https://alexholcombe.github.io/prereg_predictn_github_pages/preregistration_prediction_MathPsych.html#/title-slide
 
 This happens thanks to configuring the repository to render to docs/, adding a .nojekyll file, and telling Github to publish from the docs directory, as all explained here:
 
