@@ -14,7 +14,7 @@ format:
     incremental: true
     self-contained: false
     slide-number: c/t
-    footer: "[Preregister more](https://alexholcombe.github.io/PSYC2016lectures)"
+    footer: "[](https://alexholcombe.github.io/prereg_predictn_github_pages/preregistration_prediction_MathPsych.html#/title-slide)"
     theme: ["simple", "styles.scss"]
     echo: true
     multiplex: false #otherwise speaker notes sometimes doesn't work?
@@ -49,10 +49,14 @@ correct predictions. Finally, while I claim that preregistration is important, i
 Because many strong theories make clear predictions, in principle there may be no advantage to registering such a theory’s predictions in advance of data collection (Szollosi & Donkin, 2021). Some researchers have therefore argued that preregistration is not worthwhile (Szollosi et al., 2020). Yet psychologists have not prioritized the development of strong theories, or even the use of existing ones. Can we do something about this? I will argue that preregistration is, ironically, an important part of the answer. Strong theories are underappreciated in part because of the scarcity of both the skills and the time required to determine that a theory is strong and makes clear predictions. But because everyone recognizes the value of correct predictions, preregistration can help strong theories rise to the top. However, additional practices such as head-to-head comparisons of competing theories (Dutilh et al., 2018) may also be necessary.
 -->
 
-## {background-image="images/isPreregWorthwhile.png" background-opacity="1" background-size="50%"}
+<!-- ## {background-image="images/isPreregWorthwhile.png" background-opacity="1" background-size="90%"} -->
+
+## {background-image="images/preregistrationIsRedundantAtBestOriginal.png" background-opacity="1" background-size="90%"}
 
 ::: notes :::
 Math psychs
+
+"There is also little reason to expect that preregistration will spontaneously help researchers to develop better theories"
 :::
 
 ## The argument {background-image="images/isPreregWorthwhile.png" background-opacity=".1" background-size="auto" background-repeat="repeat"}
@@ -72,7 +76,7 @@ Math psychs
 ::: {.r-fit-text .nonincremental}
 
 -   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
--   ~~Strong theories do not have degrees of freedom~~
+-   ~~Strong theories do not have researcher degrees of freedom~~
 -   Therefore: Preregistration is redundant
 
 :::
@@ -97,12 +101,12 @@ However, to the extent that math psych theories have fewer degrees of freedom, p
 However, there is another reason to preregister!
 :::
 
-## Weaker, but better argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
+## Weaker, but more-defensible argument {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
 
 ::: {.r-fit-text}
 
 - Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
-- Strong theories have FEWER degrees of freedom
+- Strong theories have FEW degrees of freedom
 - Therefore: Preregistration is LESS important for strong theories
     - So, those with strong theories shouldn't bother preregistering
 
@@ -114,21 +118,37 @@ This weaker version still may result in a lot of math psychs not preregistering
 
 ##
 
-However, there's another problem.
+But there's another problem in psychology.
 
-People are 
+. . .
 
-## Preregistration can show that strong theories are better
+<BR><BR>
+Very few are making strong theories (Szollosi & Donkin; 2019; Szollosi & Donkin, 2021).
 
-## The very advantage of 
 
-## A different benefit of preregistration
+::: notes :::
+Hm, it seems they don't value theory development enough
+:::
 
-While few d.f. means preregistration has less benefit for guarding against d.f., preregistration has other benefits.
+## My ironic claim <!--can increase theory development--> {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
 
-God can instantly determine that a theory is strong and makes precise predictions with few auxiliary assumptions.
+In *popularity*, strong theories can benefit more from preregistration than weak theories
 
-Humans need time. 
+<!--, preregistering differentially rewards strong theories-->
+
+## <!--A different benefit of preregistration--> {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
+
+::: {.r-fit-text}
+
+- God can instantly determine that a theory is strong and makes precise predictions with few auxiliary assumptions.
+
+- Humans need time.
+
+:::
+
+::: notes :::
+The kind of theory that preregistration is least needed for the most well-known benefit is why
+:::
 
 ## Time-starved {background-image="images/Australian_Research_Council_logo.svg.png" background-opacity=".1" background-size="25%" background-repeat="repeat"}
 
@@ -136,7 +156,6 @@ Humans need time.
 
 -   Editors of prestigious journals
 -   Funding panel members and grant reviewers
--   University administrators
 
 :::
 
@@ -144,7 +163,9 @@ Humans need time.
  and expertise-lacking
 :::
 
-## How can we make strong theories easier to recognize? {background-image="images/weatherForecastIcons.png" background-opacity=".04" background-size="25%" background-repeat="repeat"}
+## How can we make a strong theory easier to recognize? {background-image="images/Australian_Research_Council_logo.svg.png" background-opacity=".1" background-size="25%" background-repeat="repeat"} 
+
+<!-- {background-image="images/weatherForecastIcons.png" background-opacity=".04" background-size="25%" background-repeat="repeat"} --> 
 
 ::: {.r-fit-text}
 
@@ -153,12 +174,22 @@ Humans need time.
 
 :::
 
+<!--
 ## How can we certify that correct predictions are being made? {background-image="images/prereg-badge.original.png" background-opacity=".2" background-size="25%" background-repeat="repeat"}
 
 -   Preregister
-
+-->
 
 ## The grants will come rolling in {background-image="images/AUD_williamNYK.jpg" background-opacity="0.2"}
+
+![](images/prereg-badge.original.png){width=200}
+
+
+## Summary {background-image="images/prereg-badge.original.png" background-opacity="0.2"}
+
+While few d.f. means preregistration has less benefit for guarding against d.f., preregistration has other benefits.
+
+It can help surface our best theories.
 
 ## FIN
 
@@ -166,4 +197,9 @@ Humans need time.
 
 -   Many preregistrations are done badly
 -   Only risky predictions should be rewarded
+
+
+## Preregistration can show that strong theories are better
+
+## The very advantage of 
 
