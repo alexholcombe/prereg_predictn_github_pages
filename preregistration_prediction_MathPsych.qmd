@@ -54,7 +54,9 @@ Because many strong theories make clear predictions, in principle there may be n
 ## {background-image="images/preregistrationIsRedundantAtBestOriginal.png" background-opacity="1" background-size="90%"}
 
 ::: notes :::
-Math psychs
+pushback against the shift in psychology broadly to increasingly preregister studes
+
+one thing to note is where this push-back was coming from Math psychs
 
 "There is also little reason to expect that preregistration will spontaneously help researchers to develop better theories"
 :::
@@ -90,7 +92,7 @@ Fixing the argument
 ::: {.r-fit-text .nonincremental}
 
 -   Preregistration guards against researcher degrees of freedom <!--(e.g. p-hacking)-->
--   ~~Strong theories do not have degrees of freedom~~
+-   ~~Strong theories do not have researcher degrees of freedom~~
 -   ~~Therefore: Preregistration is redundant~~
 
 :::
@@ -132,7 +134,7 @@ Hm, it seems they don't value theory development enough
 
 ## My ironic claim <!--can increase theory development--> {background-image="images/isPreregWorthwhile.png" background-opacity=".05" background-size="auto" background-repeat="repeat"}
 
-In *popularity*, strong theories can benefit more from preregistration than weak theories
+- In *popularity*, strong theories can benefit more from preregistration than weak theories
 
 <!--, preregistering differentially rewards strong theories-->
 
@@ -147,6 +149,7 @@ In *popularity*, strong theories can benefit more from preregistration than weak
 :::
 
 ::: notes :::
+God, if she exists, 
 The kind of theory that preregistration is least needed for the most well-known benefit is why
 :::
 
@@ -154,8 +157,9 @@ The kind of theory that preregistration is least needed for the most well-known 
 
 ::: {.r-fit-text .nonincremental}
 
--   Editors of prestigious journals
--   Funding panel members and grant reviewers
+- Review article writers
+- Editors of prestigious journals
+- Funding panel members and grant reviewers
 
 :::
 
@@ -180,26 +184,20 @@ The kind of theory that preregistration is least needed for the most well-known 
 -   Preregister
 -->
 
-## The grants will come rolling in {background-image="images/AUD_williamNYK.jpg" background-opacity="0.2"}
-
-![](images/prereg-badge.original.png){width=200}
-
-
 ## Summary {background-image="images/prereg-badge.original.png" background-opacity="0.2"}
 
 While few d.f. means preregistration has less benefit for guarding against d.f., preregistration has other benefits.
 
 It can help surface our best theories.
 
+## The grants will come rolling in {background-image="images/AUD_williamNYK.jpg" background-opacity="0.25"}
+
+![](images/prereg-badge.original.png){width=200}
+
 ## FIN
 
 ## Objections
 
--   Many preregistrations are done badly
--   Only risky predictions should be rewarded
-
-
-## Preregistration can show that strong theories are better
-
-## The very advantage of 
-
+- Many preregistrations are done badly
+- Only risky predictions should be rewarded
+- Solution: Head-to-head comparisons of competing theories (Dutilh et al., 2018)
