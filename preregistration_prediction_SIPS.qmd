@@ -6,7 +6,6 @@ title-slide-attributes:
   data-background-repeat: repeat #https://developer.mozilla.org/en-US/docs/Web/CSS/background-repeat
   data-background-opacity: "0.04"
 author: "Alex Holcombe"
-date: 12-02-2025
 format: 
   revealjs:
     smaller: true
